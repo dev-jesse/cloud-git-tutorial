@@ -2,6 +2,9 @@
 
 An interactive guide designed to help beginners learn the fundamentals of Git.
 
+
+初心者が Git の基礎を学べるように設計された対話型ガイド。
+
 1. Push to repo
 2. Choose first problem
 3. Fork the repo
